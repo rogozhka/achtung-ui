@@ -39,9 +39,9 @@
         "tests"
     ],
     "devDependencies": {
-        "jquery": "^2.0.0"
+        "jquery": "*"
     },
     "dependencies": {
-        "jquery": "^2.0.0"
+        "jquery": "*"
     }
 }
