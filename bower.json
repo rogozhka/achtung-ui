@@ -29,7 +29,10 @@
         "Jörn Zaefferer (bassistance.de)"
     ],
     "description": "Plugin for jQuery that creates notifications similar to those produced by Growl.",
-    "main": "ui.achtung.js",
+    "main": [ 
+		"ui.achtung.js",
+		"ui.achtung.css"
+		],
     "license": "MIT",
     "private": false,
     "ignore": [
