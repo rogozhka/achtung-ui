@@ -1,4 +1,4 @@
-achtung %%VERSION%%
+achtung 0.3.0
 
 Josh Varner
 http://achtung-ui.googlecode.com/

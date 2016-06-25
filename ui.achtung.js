@@ -1,5 +1,5 @@
 /**
- * achtung %%VERSION%%
+ * achtung 0.3.0
  * 
  * Growl-like notifications for jQuery
  *
@@ -77,7 +77,7 @@ $.achtung = function(element)
  * Static members
  **/
 $.extend($.achtung, {
-    version: '%%VERSION%%',
+    version: '0.3.0',
     $overlay: false,
     defaults: {
         timeout: 10,
