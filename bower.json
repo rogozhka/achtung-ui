@@ -1,6 +1,6 @@
 {
     "name": "achtung",
-    "version": "0.3.0",
+    "version": "0.3.2",
     "authors": [
         "Josh Varner (http://achtung-ui.googlecode.com/)",
         "Brandon Aaron",
@@ -29,7 +29,7 @@
         "Jörn Zaefferer (bassistance.de)"
     ],
     "description": "Plugin for jQuery that creates notifications similar to those produced by Growl.",
-    "main": [ 
+    "main": [
 		"ui.achtung.js",
 		"ui.achtung.css"
 		],

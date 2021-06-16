@@ -1,4 +1,4 @@
-achtung 0.3.0
+achtung 0.3.2
 Copyright (c) 2009 Josh Varner, http://achtung-ui.googlecode.com/
 
 Permission is hereby granted, free of charge, to any person obtaining
